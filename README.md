@@ -2,7 +2,7 @@
 <h4 align="center">I'm a high school student interested in computer science and law.</h4>
 <img align="right" alt="Animated JavaScript Gif" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
-- 🔭 I’m currently working on [Verdictr](https://verdictr.github.io/)
+- 🔭 I’m currently working on [Verdictr](https://verdictr.shriyanyamali.tech/)
 
 - 🌱 I’m currently learning **Next.js, Machine Learning, & Python**
 
